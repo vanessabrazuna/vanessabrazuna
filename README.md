@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vanessa Brazuna</h1>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vanessa Brazuna</h2>
 
 -  🎓  I' am formed Analysis and Systems Development
 
@@ -27,7 +27,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&count_private=true&show_icons=true&custom_title=Vanessa Brazuna 'Github%20Status'&hide=issues"
     />
   </a>
 </p>                                     
