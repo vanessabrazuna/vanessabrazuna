@@ -21,6 +21,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&layout=compact"
     />
   </a>
+  </br>
+  </br>
   <a href="https://github.com/vanessabrazuna/github-readme-stats">
     <img
       align="center"
@@ -32,6 +34,20 @@
 </br>
 </br>
 <p align="center"> 
+</br>
+</br>
+  
+  
+  ## Skills :nerd_face:
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+</br>
+</br>
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
