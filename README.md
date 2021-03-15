@@ -49,7 +49,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 </br>
-</br>
 
 ## Contact :iphone:
 
@@ -66,6 +65,7 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/.../">
     </a>
 </p>
+</br>
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
