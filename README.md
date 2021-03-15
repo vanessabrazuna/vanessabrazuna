@@ -21,12 +21,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&layout=compact"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vanessabrazuna/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&show_icons=true" alt="vanessabrazuna"
+      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -37,7 +37,7 @@
 </br>
   
   
-  ## Skills :nerd_face:🖖
+  ## Skills :nerd_face: 🖖
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
