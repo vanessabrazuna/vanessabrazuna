@@ -5,8 +5,9 @@
 -  🌱 I’m currently learning HTML, CSS
 
 - 📫 How to reach me **brazuna.nessa@gmail.com**
+ 
 </br>
-## Technologies :nerd_face: 🖖
+<h1> Technologies :nerd_face: 🖖</h1>
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
@@ -22,7 +23,7 @@
 </br>
 </br>
 
-## How to reach me :iphone:
+## How to reach me :📲
 
 <p align="center">
     <a href="https://github.com/vanessabrazuna">
