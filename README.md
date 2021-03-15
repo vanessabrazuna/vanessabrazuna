@@ -5,7 +5,14 @@
 -  🌱 I’m currently learning HTML, CSS
 
 - 📫 How to reach me **brazuna.nessa@gmail.com**
-
+- </br>
+## Technologies :nerd_face: 🖖
+<div text-align="justify">
+<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
+<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
+<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
+</div>
+</br>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
@@ -20,13 +27,6 @@
 <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vanessabrazuna&show_icons=true&hide_border=true" />                         </p>                                       
   
 </br>
-</br>
-## Technologies :nerd_face: 🖖
-<div text-align="justify">
-<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
-<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
-<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
-</div>
 </br>
 
 ## How to reach me :iphone:
