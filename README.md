@@ -26,16 +26,15 @@
   <a href="https://github.com/vanessabrazuna/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="50"
       src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&hide=contribs,prs"
     />
   </a>
   </p>
   </p>                                                                                              
+  
 </br>
 </br>
-  
-  
   ## Skills :nerd_face: 🖖
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
