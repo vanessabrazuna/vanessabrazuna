@@ -18,7 +18,7 @@
   <a href="https://github.com/vanessabrazuna/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&langs_count=8)](https://github.com/vanessabrazuna/github-readme-statsl""
     />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&hide=contribs,prs"
     />
   </a>
 </p>
