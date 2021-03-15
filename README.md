@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vanessa Brazuna</h2>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vanessa Brazuna</h1>
 
 -  🎓  I' am formed Analysis and Systems Development
 
@@ -7,7 +7,7 @@
 - 📫   How to reach me **brazuna.nessa@gmail.com**
  
 </br>
-<h1> Technologies :nerd_face: 🖖</h1>
+<h2> Technologies :nerd_face: 🖖</h2>
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
 <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
