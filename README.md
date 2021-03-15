@@ -21,12 +21,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&langs_count=8)](https://github.com/vanessabrazuna/github-readme-statsl""
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <p align="center"> 
   <a href="https://github.com/vanessabrazuna/github-readme-stats">
     <img
       align="center"
-      height="50"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&hide=contribs,prs"
     />
   </a>
