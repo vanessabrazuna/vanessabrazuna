@@ -14,9 +14,9 @@
 </p>
 </br>
 </br>
-<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
+<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&langs_count=8)](https://github.com/vanessabrazuna/github-readme-statsl" />
 &nbsp;&nbsp;&nbsp;
-<img width="434px" src="https://github-readme-stats.vercel.app/api?username=joaopealves&hide=contribs,prs" />                                                                                            
+<img width="434px" src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&hide=contribs,prs" />                                                                                            
   
 </br>
 </br>
