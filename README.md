@@ -21,19 +21,15 @@
   
 </br>
 </br>
-  ## Skills :nerd_face: 🖖
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</p>
+  ## Technologies :nerd_face: 🖖
+<div text-align="justify">
+<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
+<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
+<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
+</div>
 </br>
 
-## Contact :iphone:
+## How to reach me :iphone:
 
 <p align="center">
     <a href="https://github.com/vanessabrazuna">
@@ -50,7 +46,7 @@
 </p>
 </br>
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Profile Visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/vanessabrazuna/count.svg" />
  </p>
