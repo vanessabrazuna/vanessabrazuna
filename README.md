@@ -14,9 +14,10 @@
 </p>
 </br>
 </br>
+<p align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&langs_count=8)](https://github.com/vanessabrazuna/github-readme-statsl" />
-&nbsp;&nbsp;&nbsp;
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&hide=contribs,prs" />                                                                                            
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&hide=contribs,prs" />                                                     </p>                                       
   
 </br>
 </br>
