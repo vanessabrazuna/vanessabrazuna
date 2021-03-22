@@ -2,9 +2,9 @@
 
 -  🎓  I' am formed Analysis and Systems Development
 
--  🌱  I’m currently learning HTML, CSS
+-  📕  I’m currently learning HTML, CSS
 
-- 📫   How to reach me **brazuna.nessa@gmail.com**
+-  📬  How to reach me **brazuna.nessa@gmail.com**
  
 </br>
 <h2> Technologies :nerd_face: 🖖</h2>
@@ -23,7 +23,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&layout=compact"
     />
   </a>
- &nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -36,24 +36,7 @@
 </br>
 </br>
 
-## How to reach me : 📲
-
-<p align="center">
-    <a href="https://github.com/vanessabrazuna">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/vanessabrazuna">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:brazuna.nessa@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brazuna.nessa@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/...">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/.../">
-    </a>
-</p>
-</br>
-
- ## Total Profile Visits :detective: <br>
+ ## Total Profile Visits 🔎 <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/vanessabrazuna/count.svg" />
  </p>
