@@ -1,10 +1,10 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vanessa Brazuna</h1>
 
--  🎓  I' am formed Analysis and Systems Development
+-  🎓  &nbsp; I' am formed Analysis and Systems Development
 
--  📕  I’m currently learning HTML, CSS
+-  📕  &nbsp; I’m currently learning HTML, CSS
 
--  📬  How to reach me **brazuna.nessa@gmail.com**
+-  📬  &nbsp; How to reach me **brazuna.nessa@gmail.com**
  
 </br>
 <h2> Technologies :nerd_face: 🖖</h2>
