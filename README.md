@@ -1,44 +1,24 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vanessa Brazuna</h1>
+# Vanessa Brazuna
+<a href=""><img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" /></a>
+<a href=""><img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" /></a>
 
--  🎓  &nbsp; I' am formed Analysis and Systems Development
 
--  📕  &nbsp; I’m currently learning HTML, CSS
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's ups people
+I'm Vanessa Brazuna.<br>
+I'm a Student Developer 💻 ✨
 
--  📬  &nbsp; How to reach me **brazuna.nessa@gmail.com**
- 
-</br>
-<h2> Technologies :nerd_face: 🖖🏼</h2>
-<div text-align="justify">
-<img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
-<img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" />
-<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
-</div>
-</br>
-</br>
+<ul>
+  <li>🎓 ┇I’am formed Analysis and Systems Development</li>
+  <li>💙 ┇Technology
+  <li>🖥️ ┇I'm currently learning HTML5, CSS3</li>
+  <li>😍 ┇Passionate about technology and problem solution through programming</li>
+</ul>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabrazuna&layout=compact"
-    />
-  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vanessabrazuna&count_private=true&show_icons=true&custom_title=Vanessa Brazuna 'Github%20Status'&hide=issues"
-    />
-  </a>
-</p>                                     
-  
-</br>
-</br>
+# Contact
+<a href="https://instagram.com/vvanessabrazuna"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:brazuna.nessa@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
- ## Total Profile Visits 🔎 <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/vanessabrazuna/count.svg" />
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
 
-</p>
+
+
