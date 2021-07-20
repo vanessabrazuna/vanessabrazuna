@@ -1,6 +1,6 @@
 # Vanessa Brazuna
-<a href=""><img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" /></a>
-<a href=""><img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" /></a>
+<a href=""><img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" /></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
 
@@ -11,7 +11,7 @@ I'm a Student Developer 💻 ✨
 <ul>
   <li>🎓 ┇I’am formed Analysis and Systems Development</li>
   <li>💙 ┇Technology
-  <li>🖥️ ┇I'm currently learning HTML5, CSS3</li>
+  <li>🖥️ ┇I'm currently learning HTML5, CSS3, Javascript</li>
   <li>😍 ┇Passionate about technology and problem solution through programming</li>
 </ul>
 
