@@ -14,12 +14,7 @@
 <a href="mailto:brazuna.nessa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
-
-<div>
  
- ![Snake animation](https://github.com/vanessabrazuna/vanessabrazunablob/output/github-contribution-grid-snake.svg)
- 
-</div>  
   
 
 
