@@ -1,25 +1,27 @@
 # Vanessa Brazuna
-<a href="#"><img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 
+**Languages:**  
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's ups people
-I'm Vanessa Brazuna.<br>
-I'm a Student Developer 💻 ✨
+<div style="display: inline_block">
+  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div><br>
 
-<ul>
-  <li>🎓 ┇I’am formed Analysis and Systems Development</li>
-  <li>💙 ┇Technology
-  <li>🖥️ ┇I'm currently learning HTML5, CSS3, Javascript</li>
-  <li>😍 ┇Passionate about technology and problem solution through programming</li>
-</ul>
 
 # Contact
 <a href="https://instagram.com/vvanessabrazuna" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:brazuna.nessa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
+
+<div>
+ 
+ ![Snake animation](https://github.com/vanessabrazuna/vanessabrazunablob/output/github-contribution-grid-snake.svg)
+ 
+</div>  
+  
+
 
 
 
