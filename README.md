@@ -1,4 +1,4 @@
-## Languages
+## Technologies
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
