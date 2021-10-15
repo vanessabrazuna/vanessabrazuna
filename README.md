@@ -13,6 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
 
+![Snake animation](https://github.com/vanessabrazuna/vanessabrazuna/blob/output/github-contribution-grid-snake.svg)
+
   
 
 
