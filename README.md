@@ -18,8 +18,9 @@
 
 <a href = "https://app.rocketseat.com.br/me/vanessa-brazuna-de-souza-06153" target="_blank">
   <img src="https://img.shields.io/badge/Rocketseat-7159c1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAN1JREFUKJGN0E8rhGEUBfDzjoksRin5Exs7Kba2lFIWvontLHwHZafkA1gpWx/ARlnY2FDKYkrZoJDGz+advI3emTl1F/c55557n5OMABzgBefDhIvYQ7es3UHiBXT84RPHjZJsYKYibiY5SzJf8ZhIchWMYRXPaGMch/7jtOe2iZ8K8dTXwy0mq/fu4K4kP/CAizKZN6z0f3AOl9jHUuV9Ght1qdzgG0eYqkuvl9Jykm6SrySdJGuD8m7hFY9YrxVWNmwnaZXu98MGghNcY3aoOEmzvH2rKIr3UQZ+Ab689amFPvUoAAAAAElFTkSuQmCC&logoColor=white">
-</a>&nbsp;
+</a>
 
+#
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
 
 ![Snake animation](https://github.com/vanessabrazuna/vanessabrazuna/blob/output/github-contribution-grid-snake.svg)
