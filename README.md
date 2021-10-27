@@ -23,6 +23,8 @@
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessabrazuna&show_icons=true&theme=bear)
+
 ![Snake animation](https://github.com/vanessabrazuna/vanessabrazuna/blob/output/github-contribution-grid-snake.svg)
 
   
