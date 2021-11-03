@@ -11,19 +11,6 @@
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
 
 
-<p align="left" style="background:E4405F">
-<a href="https://www.instagram.com/vvanessabrazuna" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
-</a>  
-  
-
-
-
-
-
-
-
-
 ## 📬 &nbsp;Contact
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vvanessabrazuna/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836.svg?style=flat&logo=GMail&logoColor=white)](mailto:brazuna.nessa@gmail.com)&nbsp;
