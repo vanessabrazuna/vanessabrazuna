@@ -12,9 +12,7 @@
 
 
 ## 📬 &nbsp;Contact
-<a href="https://www.linkedin.com/in/vanessabrazuna/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vanessabrazuna/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836.svg?style=flat&logo=GMail&logoColor=white)](mailto:brazuna.nessa@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vvanessabrazuna/)&nbsp;
