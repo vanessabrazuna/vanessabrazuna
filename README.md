@@ -1,4 +1,4 @@
-## <img align='left' src='http://31.media.tumblr.com/tumblr_mdjdhmnIPJ1r6x1zlo1_400.gif' width='55px'>🛠 &nbsp;Tech Stack  
+## <img align='left' src='http://31.media.tumblr.com/tumblr_mdjdhmnIPJ1r6x1zlo1_400.gif' width='55px'>Tech Stack  
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -11,7 +11,7 @@
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
 
 
-## <img align='left' src='https://giffiles.alphacoders.com/360/36088.gif' width='55px'>📬 &nbsp;Contact
+## <img align='left' src='https://giffiles.alphacoders.com/360/36088.gif' width='55px'>Contact
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vanessabrazuna/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836.svg?style=flat&logo=GMail&logoColor=white)](mailto:brazuna.nessa@gmail.com)&nbsp;
