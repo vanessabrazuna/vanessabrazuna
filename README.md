@@ -17,7 +17,6 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vanessabrazuna/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836.svg?style=flat&logo=GMail&logoColor=white)](mailto:brazuna.nessa@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vvanessabrazuna/)&nbsp;
-[![Rocketseat](https://img.shields.io/badge/Rocketseat-7159c1?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAbvf3sAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAN1JREFUKJGN0E8rhGEUBfDzjoksRin5Exs7Kba2lFIWvontLHwHZafkA1gpWx/ARlnY2FDKYkrZoJDGz+advI3emTl1F/c55557n5OMABzgBefDhIvYQ7es3UHiBXT84RPHjZJsYKYibiY5SzJf8ZhIchWMYRXPaGMch/7jtOe2iZ8K8dTXwy0mq/fu4K4kP/CAizKZN6z0f3AOl9jHUuV9Ght1qdzgG0eYqkuvl9Jykm6SrySdJGuD8m7hFY9YrxVWNmwnaZXu98MGghNcY3aoOEmzvH2rKIr3UQZ+Ab689amFPvUoAAAAAElFTkSuQmCC&logoColor=white)](https://app.rocketseat.com.br/me/vanessa-brazuna-de-souza-06153)
 
 
 #
