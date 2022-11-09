@@ -17,6 +17,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vanessabrazuna/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836.svg?style=flat&logo=GMail&logoColor=white)](mailto:brazuna.nessa@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vvanessabrazuna/)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)&nbsp;
 
 
 #
