@@ -1,35 +1,19 @@
-## 🛠 &nbsp;Tech Stack  
+# Vanessa Brazuna
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+Web Developer.
 
+[![Twitter Badge](https://img.shields.io/badge/-@BrazunaVanessa-5865F2?style=flat-square&labelColor=5865F2&logo=twitter&logoColor=white&link=https://twitter.com/BrazunaVanessa)](https://twitter.com/BrazunaVanessa) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Brazuna-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessabrazuna/)](https://www.linkedin.com/in/vanessabrazuna/) 
+[![Gmail Badge](https://img.shields.io/badge/-brazuna.nessa@gmail.com-644EB1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brazuna.nessa@gmail.com)](mailto:brazuna.nessa@gmail.com)
 
-## 📥  &nbsp;Contact
+Enthusiast of the best web development technologies.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vanessabrazuna/)&nbsp;
-[![E-mail](https://img.shields.io/badge/-E--mail-D14836.svg?style=flat&logo=GMail&logoColor=white)](mailto:brazuna.nessa@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vvanessabrazuna/)&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)&nbsp;
+Front-End JavaScript developer. I am currently learning more about development and social skills.
 
+"Nothing in this world beats good old persistence."
 
 #
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna" alt="vanessabrazuna" /> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessabrazuna&show_icons=true&theme=bear) 
-
-![Snake animation](https://github.com/vanessabrazuna/vanessabrazuna/blob/output/github-contribution-grid-snake.svg)
-
-
-  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessabrazuna&color=00875f" alt="Profile views" /> </p>
 
 
 
