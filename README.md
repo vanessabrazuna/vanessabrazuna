@@ -2,7 +2,7 @@
 
 Web Developer.
 
-[![Twitter Badge](https://img.shields.io/badge/-@BrazunaVanessa-5865F2?style=flat-square&labelColor=5865F2&logo=twitter&logoColor=white&link=https://twitter.com/BrazunaVanessa)](https://twitter.com/BrazunaVanessa) 
+[![Discord Badge](https://img.shields.io/badge/-Vanessa%20Brazuna-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white&link=https://.com/BrazunaVanessa)](https://discord.com/channels/@me) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Brazuna-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessabrazuna/)](https://www.linkedin.com/in/vanessabrazuna/) 
 [![Gmail Badge](https://img.shields.io/badge/-brazuna.nessa@gmail.com-644EB1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brazuna.nessa@gmail.com)](mailto:brazuna.nessa@gmail.com)
 
