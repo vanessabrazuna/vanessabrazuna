@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-### Olá, sou Vanessa 👋
+### Olá, Sou Vanessa 👋
 
 [![Discord Badge](https://img.shields.io/badge/-Vanessa%20Brazuna-386dbd?style=flat-square&labelColor=386dbd&logo=discord&logoColor=white&link=https://.com/BrazunaVanessa)](https://discord.com/channels/@me) 
 [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Brazuna-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessabrazuna/)](https://www.linkedin.com/in/vanessabrazuna/) 
