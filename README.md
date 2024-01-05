@@ -6,6 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Brazuna-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessabrazuna/)](https://www.linkedin.com/in/vanessabrazuna/) 
 [![Gmail Badge](https://img.shields.io/badge/-brazuna.nessa@gmail.com-009ddd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brazuna.nessa@gmail.com)](mailto:brazuna.nessa@gmail.com)
 
+### Minhas formações
+<div style="display: flex; justify-content: center; align-items: center; height: 50px">
+ <img width="95px" height="32px" src="https://github.com/devjosecarlosteles/devjosecarlosteles/blob/main/assets/ignite.png" title="ignite"/> 
+ <img width="125px" height="32px" src="https://github.com/devjosecarlosteles/devjosecarlosteles/blob/main/assets/nlw_return.png" title="nlw return"/>
+</div></br>
+
 Sou desenvolvedora front end entusiasta das melhores tecnologias de desenvolvimento web.
 
 - ⚡ Apaixonada por código focada no aprendizado contínuo visando ser FullStack.
