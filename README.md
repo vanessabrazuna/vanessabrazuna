@@ -8,7 +8,7 @@
 
 ### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> &nbsp;Minha formação
 <div style="display: flex; justify-content: center; align-items: center; height: 50px">
-  <a href="https://www.rocketseat.com.br/">
+  <a href="https://www.rocketseat.com.br/" target="_blank">
     <img width="95px" height="32px" src="https://github.com/devjosecarlosteles/devjosecarlosteles/blob/main/assets/ignite.png" title="ignite"/> 
 <!--     <img width="125px" height="32px" src="https://github.com/devjosecarlosteles/devjosecarlosteles/blob/main/assets/nlw_return.png" title="nlw return"/> -->
   </a>
