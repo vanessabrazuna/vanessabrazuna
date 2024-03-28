@@ -16,8 +16,6 @@
   </a>
 </div></br>
 
-Sou desenvolvedora front end entusiasta das melhores tecnologias de desenvolvimento web.
-
 - ⚡ Apaixonada por código focada no aprendizado contínuo visando ser FullStack.
 - 👨🏻‍💻 Com experiência em: ReactJS, NextJS, TypeScript, Tailwind CSS, Styled-Components, Stitches e muito mais.
 
